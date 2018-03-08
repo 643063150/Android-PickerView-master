@@ -1,0 +1,224 @@
+﻿{
+  "total": 3,
+  "state": "100",
+  "msg": "构件类型表数据查询成功！",
+  "rows": [
+    {
+      "id": "qmx",
+      "uid": "402881705d5f0622015d5f58b260000c",
+      "text": "桥面系",
+      "levCount": 1,
+      "children": [
+        {
+          "uid": "402881705d9c7784015d9c8856920001",
+          "id": "qmxssf",
+          "text": "伸缩缝",
+          "levCount": 2,
+          "children": [
+            {
+              "uid": "402881705d9c7784015d9c88f4db0002",
+              "id": "qmxssfmssssf",
+              "text": "模数式伸缩缝",
+              "levCount": 3,
+              "children": [],
+              "compCategory": "6",
+              "parentCode": "qmxssf",
+              "type": "2",
+              "structureType": "ls",
+              "parent_code": "qmxssf"
+            },
+            {
+              "uid": "402881705d9c7784015d9c894e7f0003",
+              "id": "qmxssfscbssf",
+              "text": "梳齿板伸缩缝",
+              "levCount": 3,
+              "children": [],
+              "compCategory": "6",
+              "parentCode": "qmxssf",
+              "type": "2",
+              "structureType": "ls",
+              "parent_code": "qmxssf"
+            }
+          ],
+          "compCategory": "6",
+          "parentCode": "qmx",
+          "type": "1",
+          "structureType": "",
+          "parent_code": "qmx"
+        }
+      ],
+      "type": "1",
+      "parentCode": "",
+      "parent_code": ""
+    },
+    {
+      "id": "sb",
+      "uid": "402881705d5f0622015d5f58b24c000a",
+      "text": "上部结构",
+      "levCount": 1,
+      "children": [
+        {
+          "uid": "402881705d5f0622015d5f5a0e0a0010",
+          "id": "sbzl",
+          "text": "主梁",
+          "levCount": 2,
+          "children": [
+            {
+              "uid": "402881ed5d67f680015d68327b64000e",
+              "id": "sbzlhntkxbl",
+              "text": "混凝土空心板梁",
+              "levCount": 3,
+              "children": [],
+              "compCategory": "1",
+              "parentCode": "sbzl",
+              "type": "2",
+              "structureType": "ls",
+              "parent_code": "sbzl"
+            },
+            {
+              "uid": "402881705d5f0622015d5f5aaa6d0012",
+              "id": "sbzlhnttl",
+              "text": "混凝土T梁",
+              "levCount": 3,
+              "children": [],
+              "compCategory": "1",
+              "parentCode": "sbzl",
+              "type": "2",
+              "structureType": "lsq",
+              "parent_code": "sbzl"
+            },
+            {
+              "uid": "402881705d5f0622015d5f5a6ebf0011",
+              "id": "sbzlhntxl",
+              "text": "混凝土箱梁",
+              "levCount": 3,
+              "children": [],
+              "compCategory": "1",
+              "parentCode": "sbzl",
+              "type": "2",
+              "structureType": "lsq",
+              "parent_code": "sbzl"
+            },
+            {
+              "uid": "402881705d9c7784015d9c8c273b0004",
+              "id": "sbzlhntxxl",
+              "text": "混凝土小箱梁",
+              "levCount": 3,
+              "children": [],
+              "compCategory": "1",
+              "parentCode": "sbzl",
+              "type": "2",
+              "structureType": "lsq",
+              "parent_code": "sbzl"
+            }
+          ],
+          "compCategory": "1",
+          "parentCode": "sb",
+          "type": "1",
+          "structureType": "",
+          "parent_code": "sb"
+        },
+        {
+          "uid": "402881705d7dd61b015d7dda04c10001",
+          "id": "sbzz",
+          "text": "支座",
+          "levCount": 2,
+          "children": [
+            {
+              "uid": "402881705d9c7784015d9c8e3b8c0005",
+              "id": "sbzzbsxjzz",
+              "text": "板式橡胶支座",
+              "levCount": 3,
+              "children": [],
+              "compCategory": "2",
+              "parentCode": "sbzz",
+              "type": "2",
+              "structureType": "lsq",
+              "parent_code": "sbzz"
+            },
+            {
+              "uid": "402881705d7dd61b015d7dda37d50002",
+              "id": "sbzzpsxjzz",
+              "text": "盆式橡胶支座",
+              "levCount": 3,
+              "children": [],
+              "compCategory": "2",
+              "parentCode": "sbzz",
+              "type": "2",
+              "structureType": "lsq",
+              "parent_code": "sbzz"
+            }
+          ],
+          "compCategory": "2",
+          "parentCode": "sb",
+          "type": "1",
+          "structureType": "",
+          "parent_code": "sb"
+        }
+      ],
+      "type": "1",
+      "parentCode": "",
+      "parent_code": ""
+    },
+    {
+      "id": "xb",
+      "uid": "402881705d5f0622015d5f58b258000b",
+      "text": "下部结构",
+      "levCount": 1,
+      "children": [
+        {
+          "uid": "4028818a5d62f1e5015d63046e900003",
+          "id": "xbqd",
+          "text": "桥墩",
+          "levCount": 2,
+          "children": [
+            {
+              "uid": "402881705d9c7784015d9c993e0c0007",
+              "id": "xbqdfzd",
+              "text": "方柱墩",
+              "levCount": 3,
+              "children": [],
+              "compCategory": "5",
+              "parentCode": "xbqd",
+              "type": "2",
+              "structureType": "lsq",
+              "parent_code": "xbqd"
+            },
+            {
+              "uid": "402881705d9c7784015d9c9a38d00008",
+              "id": "xbqdjxkxbbd",
+              "text": "矩形空心薄壁墩",
+              "levCount": 3,
+              "children": [],
+              "compCategory": "5",
+              "parentCode": "xbqd",
+              "type": "2",
+              "structureType": "lsq",
+              "parent_code": "xbqd"
+            },
+            {
+              "uid": "402881705d9c7784015d9c98d3730006",
+              "id": "xbqdyzd",
+              "text": "圆柱墩",
+              "levCount": 3,
+              "children": [],
+              "compCategory": "5",
+              "parentCode": "xbqd",
+              "type": "2",
+              "structureType": "lsq",
+              "parent_code": "xbqd"
+            }
+          ],
+          "compCategory": "5",
+          "parentCode": "xb",
+          "type": "1",
+          "structureType": "",
+          "parent_code": "xb"
+        }
+      ],
+      "type": "1",
+      "parentCode": "",
+      "parent_code": ""
+    }
+  ]
+}
