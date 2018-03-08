@@ -1,6 +1,8 @@
 
 在pickview的基础上做了修改  在不妨碍原有功能的基础上添加滚动停止的监听
 
+compile 'com.googfily:pickerview:1.4.0'
+
 ```java
  pvCustomOptions.setOnStopListener(new OptionsPickerView.OnStopListener() {
             @Override
